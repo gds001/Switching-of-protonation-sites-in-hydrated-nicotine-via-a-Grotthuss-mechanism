@@ -10,4 +10,4 @@ There are many options to get a copy of the repository.  However, we recommend d
 
 ## Referencing
 
-The original text describing this work can be found at <insert doi here when assigned>.  When using these structures, please cite appropriately.
+The original text describing this work can be found at "insert doi here when assigned".  When using these structures, please cite them appropriately.
